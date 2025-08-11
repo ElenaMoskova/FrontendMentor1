@@ -163,22 +163,6 @@ margin: 0%;
     grid-row: 2;
 }
 
-/*
-.container4{
-    display: flex;
-    flex-direction: column;
-}
-
-.grow{
-    order: 1;
-    min-height: 200px;
-}
-
-.faster{
-    order: 2;
-    min-height: 100px;
-}
-*/
 
 .container4{
     display: grid;
@@ -188,7 +172,7 @@ margin: 0%;
 
 .grow{
     grid-row: 1;
-    min-height: 250px;
+    min-height: 260px;
 }
 .faster{
     grid-row: 2;
