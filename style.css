@@ -109,7 +109,11 @@ margin: 0%;
     justify-content: center;
     background-color:hsl(256, 67%, 59%);
     border-radius: 15px;
+    color: white;
     
+}
+.social h1{
+    text-align: center;
 }
 
 .container2{
